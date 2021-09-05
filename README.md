@@ -13,6 +13,12 @@
 
 ![](https://media.discordapp.net/attachments/883966872389824522/883966916618772490/2.png?width=607&height=563)
 
+## 動作確認済みブラウザ
+|  Name  |  Version  |
+| ---- | ---- |
+|  Chrome  |  92.0.4515.159  |
+|  Firefox  |  88.0.1   |
+
 ## 実装までに参考にした資料
 [Firebase Authenticationを使ってFlutter製アプリにYahoo! JAPAN IDでログインしてみる](https://techblog.yahoo.co.jp/advent-calendar-2018/firebase-flutter-yid/)
 
